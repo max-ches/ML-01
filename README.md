@@ -1,5 +1,6 @@
 # ML-01
 
+- 강의 자료는 매일 업로드 됩니다. 따라서 아래 실습환경 셋팅 (구글 코랩 셋팅) 방법대로 해주시면 됩니다.
 
 - 깅의 소개 : https://docs.google.com/presentation/d/1vYjZi4la4uSb0ZU6kFPf_4ymzrDJR4nRk12bIu_Tdew/edit?usp=sharing
 
