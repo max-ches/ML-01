@@ -1,6 +1,5 @@
 # ML-01
 
-- 강의 설문 : https://docs.google.com/forms/d/1FwHT7hpAdx4Ztl4CN3Sg8PxdXIdQTb7TOpn_0x5o4hE/edit
 
 - 깅의 소개 : https://docs.google.com/presentation/d/1vYjZi4la4uSb0ZU6kFPf_4ymzrDJR4nRk12bIu_Tdew/edit?usp=sharing
 
