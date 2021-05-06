@@ -6,6 +6,8 @@
 
 - 깅의 소개 : https://docs.google.com/presentation/d/1vYjZi4la4uSb0ZU6kFPf_4ymzrDJR4nRk12bIu_Tdew/edit?usp=sharing
 
+- 머신러닝 : https://docs.google.com/presentation/d/1pvgye0Gt5DKgA7Kn5pc4Cfy-D4VtmQTxVIvbxa-GfFc/edit#slide=id.ga8aab8fd2a_0_50
+
 - 질문은 이메일 macro@prag-ai.com 으로 받습니다.
 
 ---
